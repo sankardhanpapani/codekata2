@@ -3,7 +3,7 @@
 int main() {
 	int ch;
 	printf("Input\n");
-	scanf("%d",ch);
+	scanf("%d",&ch);
 	printf("%d",ch);
 	printf("\nOutput");
 	switch(ch)
