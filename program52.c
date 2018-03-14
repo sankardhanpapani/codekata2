@@ -48,11 +48,6 @@ int main() {
 		printf("\neight");
 		break;
 		}
-		case 1:
-		{
-		printf("\nOne");
-		break;
-		}
 		case 9:
 		{
 		printf("\nnine");
