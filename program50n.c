@@ -5,10 +5,11 @@ int main() {
 	float b;
 	scanf("%d",&n);
 	printf("Input\n%d",n);
-	b=sqrt(n)/sqrt(2);
+	b=sqrt(n);
+	c=sqrt(n);
 	a=b;
 	printf("\nOutput\n");
-	if(a==b)
+	if(a==b || b==c)
 	printf("yes");
 	else
 	printf("no");
